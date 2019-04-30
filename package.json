@@ -1,0 +1,14 @@
+{
+  "name": "@alvinleung1996/ordered-object-map",
+  "version": "1.0.0",
+  "description": "Ordered hash map using plain JS object",
+  "main": "./ordered-object-map.js",
+  "author": "Alvin Leung 1996",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
